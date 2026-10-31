@@ -1,0 +1,6 @@
+{
+  "name": "FutureTech Business School",
+  "description": "International online technology and entrepreneurship education platform. Master Artificial Intelligence, software engineering, and venture creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
